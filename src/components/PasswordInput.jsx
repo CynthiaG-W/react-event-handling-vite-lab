@@ -9,7 +9,7 @@ function PasswordInput (){
         <input
             type="password"
             onChange={handleChange}
-            placeholder="Enter password"
+            placeholder="Submit password"
         />
     )
 }
