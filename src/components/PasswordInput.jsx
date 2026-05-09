@@ -3,7 +3,7 @@ import React from "react";
 
 function PasswordInput (){
     function handleChange(event){
-        console.log("Enter password...")
+        console.log("Entering password...")
 }
     return(
         <input
